@@ -2,7 +2,7 @@ let squaresClicked = []
 let posOfLines = []
 
 //length of a side of the grid
-let gridSize = 500
+let gridSize = 5
 
 
 function setup() {
